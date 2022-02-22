@@ -1,5 +1,6 @@
 %% 
 % This script is just to experiment with MATLAB sum of squares tools
+% It tries to reproduce the example from https://underactuated.mit.edu/lyapunov.html#ex:global_pend  
 % Script is modifed from the following examples
 % SOSDEMO2 --- Lyapunov Function Search
 % Section 3.2 of SOSTOOLS User’s Manual
